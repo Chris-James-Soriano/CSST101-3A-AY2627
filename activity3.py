@@ -1,0 +1,1 @@
+print("Soriano, Chris James M.\nBSCS\n3A\nChatGPT\nN/A")
